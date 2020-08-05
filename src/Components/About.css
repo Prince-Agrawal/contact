@@ -1,0 +1,23 @@
+.btn {
+  background-color: purple;
+
+  color: white;
+  border-radius: 18px;
+}
+.card {
+  background-color: rgb(219, 206, 206);
+  width: 80%;
+  height: 90%;
+  margin-left: 10%;
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+.row-content {
+  margin-left: 100px;
+}
+.col-content {
+  margin-left: 10px;
+}
+.form-control {
+  display: block;
+}
